@@ -216,6 +216,7 @@ export const LAYOUTS = {
     "dhorf": "vlhgqjfou,srntbycaeizxmdkpw';.",
     "dvarf": "'uowpqvdrfaieyglhtns,.;cjkmbxz",
     "dwarf": "flhdvzgou.srntmpyeiaxjbkqcw',;",
+    "hiyou": "kyou'vdlpwhiea-cstnrqj,.;fgmbz",
     "dofauq": ".auqmvgphxioetdysnlr,/;wkfcbjz",
     "qwertz": "qwertzuiopasdfghjkl;yxcvbnm,./",
     "wogcat": "xie'.zvlybwogcatdrsnu;j,qmkhfp",
